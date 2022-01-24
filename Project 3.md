@@ -316,6 +316,7 @@ In the src folder open App.js file
 `vi App.js`
 
 Add the below configuration
+
 ![](images/48.png)
 
 Open App.css
@@ -325,16 +326,21 @@ Open App.css
 ![](images/49.png)
 
 Add below config
+
 ![](images/50.png)
+
 ![](images/51.png)
+
 ![](images/52.png)
 
 Open index.css
 
 `vim index.css`
+
 ![](images/53.png)
 
 Add the below config
+
 ![](images/54.png)
 
 In Todo directory run
@@ -342,9 +348,11 @@ In Todo directory run
 `npm run dev`
 
 ![](images/55.png)
+
 ![](images/56.png)
 
 
 Reload server on port 3000
+
 ![](images/end.png) 
 
